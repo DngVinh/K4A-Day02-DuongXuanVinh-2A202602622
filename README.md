@@ -10,6 +10,10 @@ Folder này chỉ giữ các file cần thiết:
 |---|---|
 | `01-worksheet.md` | File hướng dẫn chính cho toàn bộ lab 4 tiếng. Bộ gợi ý, hướng dẫn công cụ, prompt và checklist tự kiểm đã được tích hợp trực tiếp vào từng phase. |
 | `02-deliverable-example.md` | Ví dụ bài nộp hoàn chỉnh để học viên nhìn được output cuối cùng trông như thế nào. |
+| `01-individual-problem-scan/individual-report.md` | Bài scan problem và Top 3 Problem Cards của cá nhân. |
+| `02-group-problem-statement/group-report.md` | Bản nộp nhóm: convergence, validation, research, workflow, Problem Statement và quyết định. |
+| `02-group-problem-statement-validation-notes.md` | Ghi chú validation, baseline, kế hoạch đo pilot và nguồn research. |
+| `03-individual-reflection/reflection.md` | Reflection cá nhân về vai trò, cách dùng AI và bài học. |
 
 ## Cấu trúc repo nộp bài
 
